@@ -66,15 +66,7 @@ src/
 ---
 
 
----
 
-## 🚀 Live Demo
-🔗 [Live Site Link](https://greennest-2feeb.web.app/)
-
-## 💻 GitHub Repository
-🔗 [GitHub Repo Link](https://github.com/rakib-hossain32/Movie-Master-Pro.git)
-
----
 
 
 -    ## 🚀 Run Locally
