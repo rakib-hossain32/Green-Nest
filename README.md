@@ -23,28 +23,6 @@ A single-page React web app for plant lovers to explore, buy, and learn how to c
 
 ---
 
-## 📂 Project Structure
-src/
-┣ components/
-┣ pages/
-┣ context/
-┣ firebase/
-┣ layout/
-┣ assets/
-┗ main.jsx
-
-
----
-
-## 🔥 Technologies Used
-- React + React Router
-- Firebase Authentication
-- Tailwind CSS
-- Framer Motion
-- React Toastify
-
----
-
 ## 🪴 JSON Data Example
 ```json
 {
@@ -59,6 +37,33 @@ src/
   "image": "https://i.postimg.cc/example.png",
   "providerName": "UrbanGreen Studio"
 }
+```
+
+
+
+## 🔥 Technologies Used
+- React + React Router
+- Firebase Authentication
+- Tailwind CSS
+- Framer Motion
+- React Toastify
+
+---
+
+
+
+## 📂 Project Structure
+src/
+┣ components/
+┣ pages/
+┣ context/
+┣ firebase/
+┣ layout/
+┣ assets/
+┗ main.jsx
+
+
+---
 
 ## Dependencies
 Add package.json
