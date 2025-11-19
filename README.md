@@ -8,7 +8,7 @@ A single-page React web app for plant lovers to explore, buy, and learn how to c
 🔗 [Live Site Link](https://greennest-2feeb.web.app/)
 
 ## 💻 GitHub Repository
-🔗 [GitHub Repo Link](https://github.com/programming-hero-web-course2/b12-a9-firesheild-rakib-hossain32)
+🔗 [GitHub Repo Link](https://github.com/rakib-hossain32/Green-Nest.git)
 
 ---
 
